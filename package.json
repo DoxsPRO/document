@@ -12,6 +12,7 @@
     "@vueform/vueform": "^1.12.10",
     "bootstrap": "^5.3.6",
     "bootstrap-vue": "^2.23.1",
+    "jspdf": "^3.0.1",
     "vue": "^3.5.16"
   },
   "devDependencies": {
