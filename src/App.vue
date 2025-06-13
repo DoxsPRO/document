@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue';
 import CreateAccount from './components/persona.vue';
+
 </script>
 
 <template>
